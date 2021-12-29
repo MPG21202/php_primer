@@ -33,7 +33,7 @@
     echo $num . '<br/>';
     
     addFunction('10', "50");
-
+    echo "<hr/>";
     changeNum($num);
     echo $num . '<br/>';
     $return_value = returnProduct(10,200);
